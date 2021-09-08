@@ -6,6 +6,12 @@ In this project, I have designed an application using Pyqt5 and SQLite to manage
 Each employee has an Employee Id (which acts as Primary Key for our table), Name, Lastname, Age, Position, and Email address. This Company will hire people who are older than 18 and younger than 70 years old.
 I have defined a function to generate 40 employees with fake information.
 
+
+
+### How to run :
+
+**python mainGUI.py **
+
 ### Note:
 ```diff
 
