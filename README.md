@@ -15,8 +15,17 @@ I have defined a function to generate 40 employees with fake information.
 
 
 ![login-page](https://user-images.githubusercontent.com/47816410/132484334-cdf24c6b-f30a-425e-b39a-8f0264db7cce.png)
+
+
+
 ![2](https://user-images.githubusercontent.com/47816410/132485705-da50482b-4c0a-43da-a65e-a28ec90db4fb.png)
+
+
+
 ![3](https://user-images.githubusercontent.com/47816410/132486835-01b2c887-ed3d-4e2f-bfb6-482c1c519c6b.png)
+
+
+
 ![4](https://user-images.githubusercontent.com/47816410/132486771-7e5f5103-d6fa-4d92-872c-f9f962383411.png)
 
 
