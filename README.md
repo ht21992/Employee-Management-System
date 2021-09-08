@@ -9,21 +9,21 @@ I have defined a function to generate 40 employees with fake information.
 
 
 ## Requirements:
-SQLite
-Plotly
-Pyqt5
-Mailjet_rest
+* SQLite
+* Plotly
+* Pyqt5
+* Mailjet_rest
 
 check the requirments.txt
 
 ## Features:
-Login page
-Display table
-Search function 
-Update data
-Delete data
-different themes and fonts
-Interesting data (such as number of employees, salary per position, average salary per position)
-Interactive  plots
-sending email to specific employee ( update use_jet_mail.py file with your jetmail api and mail)
+* Login page
+* Display table
+* Search function 
+* Update data
+* Delete data
+* different themes and fonts
+* Interesting data (such as number of employees, salary per position, average salary per position)
+* Interactive  plots
+* sending email to specific employee ( update use_jet_mail.py file with your jetmail api and mail)
 
