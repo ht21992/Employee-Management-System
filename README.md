@@ -10,7 +10,7 @@ I have defined a function to generate 40 employees with fake information.
 
 ### How to run :
 
-**python mainGUI.py **
+**python mainGUI.py**
 
 ### Note:
 ```diff
